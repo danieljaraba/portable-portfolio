@@ -1,26 +1,31 @@
-## Project A
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 1
+## JavaFX Pokemon
+Copy of the famous Pokemon video game made in Java with the JavaFX library. Two cities, fights with wild Pokemon, start screen, save game, highscore table and background music.
+- ![600x200](../assets/pokemon-javafx.png)
+- Tags: Java
 - Badges:
-  - Badge [blue]
+  - Java [blue]
+  - JavaFX [black]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/danieljaraba/jfx-pokemon]
 
-## Project B
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 2
+## MIO Routes
+Back-end API made for select the best route between two stations in the MIO system of Cali city.
+- ![600x200](../assets/mio-routes.webp)
+- Tags: SpringBoot
 - Badges:
-  - Badge [blue]
+  - Java [blue]
+  - SpringBoot [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/danieljaraba/back-mioroutes]
 
-## Project C
-Description
-- ![600x200](https://via.placeholder.com/600x200)
-- Tags: Category 3
+## NextJS Vote System
+Simple voting system for the presidencial elections in Colombia. Visualize votes with charts.
+- ![600x200](../assets/react-votesystem.png)
+- Tags: React
 - Badges:
-  - Badge [blue]
+  - JavaScript [darkblue]
+  - React [blue]
+  - NextJS [red]
+  - ChartJS [orange]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/danieljaraba/vote-system-nextjs]

@@ -1,29 +1,36 @@
-## Company 1
-- *Role* | Jan'23 - Feb'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 1
+## ICESI University
+- *Assitant professor of Algorithms and Programming II* | Aug 2022 - Nov 2022
+- ![logo512](../assets/icesi-logo.jpg)
+- Tags: University/College
 - Badges:
-  - Badge [blue]
+  - Java [blue]
+  - JavaFX [black]
 - List Items:
-  - Point 1
-  - Point 2
+  - Clarification of thematic doubts
+  - Grading of works and projects
+  - Java development
+  - User interface in Java using JavaFX
 
-## Company 2
-- *Role* | Feb'23 - Mar'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 2
+## ICESI University
+- *Assitant professor of Computing and Discrete Structures II* | Aug 2022 - Nov 2022
+- ![logo512](../assets/icesi-logo.jpg)
+- Tags: University/College
 - Badges:
-  - Badge [blue]
+  - Scala [red]
 - List Items:
-  - Point 1
-  - Point 2
+  - Clarification of thematic doubts
+  - Grading of works and projects
+  - Study of data science algorithms
+  - Java development
 
-## Company 3
-- *Role* | Mar'23 - Apr'23
-- ![logo512](../assets/logo512.png)
-- Tags: Category 3
+## ICESI University
+- *Assitant professor of Algorithms and Programming I* | Mar 2023 - Apr 2023
+- ![logo512](../assets/icesi-logo.jpg)
+- Tags: University/College
 - Badges:
-  - Badge [blue]
+  - Java [blue]
 - List Items:
-  - Point 1
-  - Point 2
+  - Clarification of thematic doubts
+  - Grading of works and projects
+  - Introduction to programming
+  - Java development

@@ -1,23 +1,7 @@
-## Project 1
-Description
-- Tags: Category 1
+## Flags in console
+Simply Java program to print flags in console using threads.
+- Tags: Personal
 - Badges:
-  - Badge [blue]
+  - Java [blue]
 - Buttons:
-  - Link [https://example.com]
-
-## Project 2
-Description
-- Tags: Category 2
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
-
-## Project 3
-Description
-- Tags: Category 3
-- Badges:
-  - Badge [blue]
-- Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/danieljaraba/thread-flag]
